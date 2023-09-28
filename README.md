@@ -9,7 +9,3 @@ I am open to any discussion :
 - My zulip organization (anweddol) : https://anweddol.zulipchat.com
 
 > Check out my current project : https://github.com/the-anweddol-project
-
----
-
-![image](https://github.com/Darnethal0z/Darnethal0z/assets/118600108/ecc758ed-8e4f-4cdc-a139-0aadfd7af1de)
