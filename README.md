@@ -1,11 +1,7 @@
-# Hello there
+# Hi
 
-I'm Darnethal0z, a self-taught developer who sometimes manages to do nice stuff.
+I'm Darnethal0z, a self-taught developer doing the development.
 
-Being a GNU/Linux person myself, i'm also involved in electronics world.
+Check out my current project : https://github.com/the-anweddol-project
 
-I am open to any discussion : 
-- Mastodon : https://defcon.social/@Darnethal0z
-- My zulip organization (anweddol) : https://anweddol.zulipchat.com
-
-> Check out my current project : https://github.com/the-anweddol-project
+(Other ones are on the way, just taking my time a little too much)
